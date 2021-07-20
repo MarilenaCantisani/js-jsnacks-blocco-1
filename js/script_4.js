@@ -28,3 +28,7 @@ while (list1.length !== list2.length) {
 console.table(list1);
 console.table(list2);
 
+//TODO:  #3: Stampare la somma dei numeri inseriti; 
+var displayElement = document.getElementById("display");
+
+displayElement.innerText = listNumberRandom;
